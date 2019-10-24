@@ -1,0 +1,90 @@
+* {
+    margin: 20px;
+    padding: 0;
+}
+
+.red {
+    color: orangered;
+    font-size: 60px;
+    font-size: 60px;
+    border: solid 11px royalblue;
+    border-radius: 20px;
+    font-style: italic;
+    width: 41vw;
+}
+body {
+    background-color: lightslategrey;
+}
+.border {
+    color: orangered;
+    font-size: 60px;
+    border: solid 11px royalblue;
+    border-radius: 20px;
+    font-style: italic;
+    width: 45vw;
+}   
+figcaption {
+    color: maroon;
+    font-weight: bold;
+    font-size:25px;
+
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+nav {
+    display:flex;
+    justify-content: flex-end;
+}
+.list-element {
+    color: rgb(0, 68, 255);
+    margin: 10px;
+    font-size: 25px;
+    
+}
+#title {
+    color:red;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+.maClasseJs:hover {
+    color:blue;
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 17, 255);
+}
+.banner {
+    font-size: 40px;
+    color: rgb(49, 47, 79);
+    
+}
+.front {
+    border: solid 11px royalblue;
+    background-color: rgb(41, 126, 238);
+}
+.different-red {
+    color:blue
+}
+.differentBanner {
+    background-color:brown
+}
+.hide {
+    color:green;
+    background-color: brown;
+}
+.disapear {
+    display: none;
+}
